@@ -1,5 +1,5 @@
-SCP-173 ei voi liikkua tai hyökätä jos sitä katsotaan. Se parhaiten tappaa yksinharhailijoita tai pienempiä ryhmiä, mutta ihmisten väijytykset tai ryhmätyö voi helposti tappaa sen.
-Säädöksen käyttämät korvattavat vangit joita käytetään olioiden testaamiseen. Niiden ensisijaisena tavoitteena on paeta laitoksesta, välttää<color=#f00>SCPitä</color> ja <color=#0096FF>MTFää</color>.\n<color=#008f1e>Chaos Insurgency</color> autta heitä pakenemisessa.
+SCP-173 ei voi liikkua tai hyökätä jos sitä katsotaan. Se tappaa parhaiten yksinharhailijoita tai pienempiä ryhmiä, mutta ihmisten väijytykset tai ryhmätyö voi helposti tappaa sen.
+Säädöksen käyttämät korvattavat vangit, joita käytetään olioiden testaamiseen. Niiden ensisijaisena tavoitteena on paeta laitoksesta, välttää<color=#f00>SCPitä</color> ja <color=#0096FF>MTFää</color>.\n<color=#008f1e>Chaos Insurgency</color> auttaa heitä pakenemisessa.
 Sinä synnyt uudestaan pian.\nTällä välin voit katsella kun kaikki tuhoutuu.
 SCP-106 on hidas, kestävä tankki, joka toimii pysäyttämättömänä voimana, ja joka on erikoistunut suunnitelmien tuhoamiseen ja joukkueiden hajottamiseen.
 Eliitin työryhmän jäsen, joka vastaa rikkomuksiin ja takaa säätiön turvallisuuteen. Niiden ensisijainen tavoite on eliminoida kaikki <color=#f00>SCP:t</color>, <color=#008f1e>Chaos Insurgency</color> ja <color=#FF8E00>D-Luokka</color>, ja myös saattaa <color=#FFFF7CFF>Tutkijat</color> turvallisuuteen.
