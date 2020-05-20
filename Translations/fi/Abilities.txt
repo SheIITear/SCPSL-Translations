@@ -20,7 +20,7 @@ Ryntäys:Lisää liikkumisnopeuttasi.
 Matkia:Voit puhua ääneen läheisille pelaajille, myös ihmisille.
 Puraisu:Hyökkää ihmisen kimppuun, ja teet karua jälkeä.
 Antibiootti:Hyökkää ihmisen kimppuun, tappamalla heidät välittömästi ja antamalla heille mahdollisuuden henkiin herättämiselle vähäksi ajaksi. Tällä ei ole latautumisaikaa.
-Herätä henkiin: Kun pidät tätä painiketta painettuna muutaman sekunnin ajan ruumiin päällä, jonka olet äskettäin tappanut, sinä herätät sen henkiin uudelleen kääntämällä ihmisen zombiksi. Heillä on alhainen terveystaso ja heikko hyökkäys, mutta ne liikkuvat suhteellisen nopeasti ja voivat kommunikoida kanssasi ja muiden SCP:eiden kanssa.\nEi ole rajoitusta siitä, kuinka monta ihmistä voidaan herättää eloon.
+Herätä henkiin: Kun pidät tätä painiketta painettuna muutaman sekunnin ajan ruumiin päällä, jonka olet äskettäin tappanut, sinä herätät sen henkiin uudelleen kääntämällä ihmisen zombiksi. Heillä on alhainen terveystaso ja heikko hyökkäys, mutta ne liikkuvat suhteellisen nopeasti ja voivat kommunikoida sinun ja muiden SCP:eiden kanssa.\nEi ole rajoitusta siitä, kuinka monta ihmistä voidaan herättää eloon.
 Lyönti:Hyökkää ihmisen kimppuun ​​ja tee heille pieni määrä vahinkoa.
 Avaa/Sulje Ovet:Voit avata ja sulkea ovet 5 AP:n kanssa. Voit myös lukita ne, tyhjentämällä AP:n, mutta se estää oven avaamisen tai sulkemisen, kunnes nostat lukituksen tai AP loppuu.
 Tesla-Ylilataus:Voit aktivoida Tesla-portin 50 AP:lla välittömästi, tappamalla kaikki pelaajat, jotka ovat sen sisällä tai lähellä.
